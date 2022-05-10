@@ -23,7 +23,7 @@ class GPT3_Api:
         global device_created
         global last_modified
         obit = "initialize"
-        openai.api_key = "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"
+        openai.api_key = "API-KEY"
         # initialize prompt
         prompt = "Say this is a test."
         # Request GPT3 with text from transcription

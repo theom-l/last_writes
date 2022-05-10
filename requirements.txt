@@ -1,0 +1,7 @@
+openai
+RPi.GPIO
+requests
+Pillow
+pyserial
+Unidecode
+os
